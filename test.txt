@@ -1,1 +1,2 @@
 funkce 1 
+funkce 2 
