@@ -1,2 +1,3 @@
-funkce 1 
-funkce 2 
+funkce 1
+funkce 2
+funkce 3 // od Davida
